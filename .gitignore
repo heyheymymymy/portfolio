@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+
+# 本機管理工具，不部署到公開網站
+admin.html
+js/admin.js
+css/admin.css
+
+# 未被 works.json 使用到的原始檔（太大，且沒有被引用）
+images/Gen2--.mp4
